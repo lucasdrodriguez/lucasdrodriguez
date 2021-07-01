@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-[GitHub](http://github.com)
+[📫](http://github.com)
